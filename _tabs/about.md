@@ -4,5 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 博客
+博客自 2026年2月开始在线运营，专注于个人学习分享，游戏等，不定期更新。  
+
+静态生成：基于 Ruby 的 Jekyll 驱动。  
+
+主题设计：采用 Chirpy 主题，以其优雅的排版与丰富的功能组件为基础。  
+
+托管部署：源代码托管于 GitHub，并通过 GitHub Actions 实现自动化构建与发布至 GitHub Pages。  
+
+# 博主
+学生
+
+# 版权声明
+博客内所有原创内容（包括但不限于文章、视频等）除特别声明外均采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)<a id="jump_8"></a>，任何人都可自由传播，但不得商用且必须署名并以相同方式分享。  
+
+本站部分内容转载于网络，有出处的已在文中附加原文链接，出处已不可寻的会标注来源于网络。若您认为本博客有部分内容侵犯了您的权益，请在评论区留言告知，我将认真处理。
